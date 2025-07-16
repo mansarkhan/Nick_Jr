@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.558589,
+doras recipe for adventure podcast - Part0.ts
+#EXTINF:9.431778,
+doras recipe for adventure podcast - Part1.ts
+#EXTINF:11.935800,
+doras recipe for adventure podcast - Part2.ts
+#EXTINF:11.184589,
+doras recipe for adventure podcast - Part3.ts
+#EXTINF:6.886033,
+doras recipe for adventure podcast - Part4.ts
+#EXTINF:2.003200,
+doras recipe for adventure podcast - Part5.ts
+#EXT-X-ENDLIST
